@@ -13,7 +13,9 @@ We have used 4 push buttons which are used to control the entire system. The fun
 4. Reverse Button – Used for moving backward while selecting memory location for storing or deleting fingerprints.
 
 Enrolling New Fingerprint: To enroll New Fingerprint Click on the Enroll button. Then select the memory location where you want to store your fingerprint using the UP/DOWN button. Then click on OK. Put your finger and remove your finger as the LCD instructs. Put your finger again. So finally your fingerprint gets stored.
+
 Deleting Stored Fingerprint: To delete the fingerprint which is already clicked on DEL Button. Then select the memory location where your fingerprint was stored earlier using the UP/DOWN button. Then click on OK. So finally your fingerprint is deleted.
+
 Downloading Data: Simply click on Register/Back Button and reset the button together. At this movement, the serial monitor should be opened.
 
 ### snapshot
