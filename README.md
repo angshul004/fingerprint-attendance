@@ -6,17 +6,17 @@
 5. Upload the code in arduino and run.
 
 ### Working
-We have used 4 push buttons which are used to control the entire system. The functions of each button are:
-1. Register/Back Button – Used for enrolling new fingerprints as well as reversing the back process or going back
+We have used 4 push buttons which are used to control the system. The functions of each button are:
+1. Register/Back Button – Used for enrolling new fingerprints or going back
 2. Delete/OK Button – This Button is used for deleting the earlier stored fingerprint system as well as granting access as an OK selection.
 3. Forward Button – Used for moving forward while selecting the memory location for storing or deleting fingerprints.
 4. Reverse Button – Used for moving backward while selecting memory location for storing or deleting fingerprints.
 
-Enrolling New Fingerprint: To enroll New Fingerprint Click on the Enroll button. Then select the memory location where you want to store your fingerprint using the UP/DOWN button. Then click on OK. Put your finger and remove your finger as the LCD instructs. Put your finger again. So finally your fingerprint gets stored.
+Enrolling New Fingerprint: To enroll New Fingerprint Click on the Register button. Then select the memory location where you want to store your fingerprint using the UP/DOWN button. Then click on OK. Put your finger and remove your finger as the LCD instructs. Put your finger again. So finally your fingerprint gets stored.
 
-Deleting Stored Fingerprint: To delete the fingerprint which is already clicked on DEL Button. Then select the memory location where your fingerprint was stored earlier using the UP/DOWN button. Then click on OK. So finally your fingerprint is deleted.
+Deleting Stored Fingerprint: To delete the fingerprint which is already clicked on DEL Button. Then select the memory location where your fingerprint was stored earlier using the UP/DOWN button. Then click on OK. So fingerprint is deleted.
 
-Downloading Data: Simply click on Register/Back Button and reset the button together. At this movement, the serial monitor should be opened.
+Downloading Data: Simply click on Register/Back Button and reset the button together. the serial monitor will be opened.
 
 ### snapshot
 ![WhatsApp Image 2024-11-10 at 14 03 29_f0b7d277](https://github.com/user-attachments/assets/46b5bc61-741b-428c-8b89-27982c3d872c)
