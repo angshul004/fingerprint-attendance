@@ -1,5 +1,5 @@
 ### Steps
-1. Install Arduino IDE from microsoft store [From here](https://www.microsoft.com/store/productId/9NBLGGH4RSD8?ocid=pdpshare) of using browser.
+1. Install Arduino IDE from microsoft store [From here](https://www.microsoft.com/store/productId/9NBLGGH4RSD8?ocid=pdpshare) or using browser.
 2. Add the libraries (4 zips that are in this repository) in Arduino . Go to Sketch > Include Library > Add .ZIP library . Choose the zip file you just downloaded，and if the library install correct, you will see Library added to your libraries in the notice window. Which means the library is installed successfully.
 3. open the .ino file with arduino.
 4. do the connections as in this [Image](https://how2electronics.com/wp-content/uploads/2019/01/fingerprint-attendance-circuit-diagram.jpg) (code from this website won't work just do the connection of this image). As Fingerprint sensor R305 is not available in the shop so i used R307 sensor. Its pin diagram is [This](https://www.circuitstate.com/wp-content/uploads/2021/05/R307-Fingerprint-Scanner-Pinout-2-800x602.png) . It will work correctly in case you dont have R305.
